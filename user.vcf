@@ -3,6 +3,6 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Marieke;Los;;;
 FN: Marieke  Los 
-EMAIL;type=INTERNET;type=WORK;type=pref:total.los@chello.nl
-TEL;type=WORK;type=VOICE:+31641111392
+EMAIL;type=INTERNET;type=Email;type=pref:total.los@chello.nl
+TEL;type=Mob;type=VOICE:+31641111392
 END:VCARD
